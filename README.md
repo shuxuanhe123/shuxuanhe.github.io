@@ -37,9 +37,7 @@ Results: The project identified key song features correlated with high popularit
 **Results:** The linear regression model identified BMR and current weight as the most significant predictors of weight change. Clustering revealed distinct lifestyle-based groups, though with moderate separation, and the supervised model highlighted the correlation between poor sleep quality and higher stress levels affecting physical activity. The PCA model demonstrated effective dimensionality reduction, retaining over 90% of the data variance while achieving a comparable MSE to the original variables.
 
 **Links:**  
-- **Slide Deck:** [View Presentation](#)  
-- **Code Repository:** [GitHub Project](https://github.com/kavinravi/MGSC310)  
-- **Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/abdullah0a/comprehensive-weight-change-prediction)
+- **Slide Deck:** [View Presentation](https://github.com/shuxuanhe123/Diet-Analysis) 
 
 
 
