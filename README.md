@@ -28,7 +28,7 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 
 **Results:**  The analysis revealed that United Airlines is the most discussed airline, while Southwest Airlines has the highest occurrence of positive sentiments. The insights highlighted the main causes of negative sentiments, such as late flights and customer service issues. The findings were visualized through various interactive dashboards, allowing for a deeper understanding of sentiment distribution across different airlines and time zones. The project provided actionable insights to improve customer service and operational strategies for airlines.
 
-**Slide deck:** [`Analyzing Twitter Sentiment for Airlines `]
+**Code:** [`Analyzing Twitter Sentiment for Airlines `] (https://github.com/shuxuanhe123/data-analysis-portfolio/blob/main/Churn_CustomerRetention.ipynb)
 
 ### Strategizing for Spotify: Enhancing Playlist Placement Opportunities 
 **Code:** [`Strategizing for Spotify: Enhancing Playlist Placement Opportunities.R`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/NewMusicFriday.R)
@@ -43,7 +43,29 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 
 **Results:** Show that artists with higher solo streaming numbers and those experiencing a surge in daily streams are more likely to have their songs featured on Spotify's "New Music Friday." This suggests a focus on building a strong solo streaming presence and leveraging current streaming success are key strategies for playlist inclusion.
 
-**Slide deck:** [`New Music Friday`]
+**Code:** [`New Music Friday`] (https://github.com/shuxuanhe123/data-analysis-portfolio/blob/main/NewMusicFriday.R)
+
+### How Analytics Define the New Age of Blockbusters
+**Code:** [`How Analytics Define the New Age of Blockbusters`](https://github.com/shuxuanhe123/data-analysis-portfolio/blob/main/blockbuster.R)
+
+**Goal:** Utilize advanced machine learning to predict high-grossing movies for the upcoming season and estimate potential revenue.
+
+**Description** Analyze historical movie data, perform EDA and data cleaning, and apply machine learning models. The objective is to provide actionable insights and recommendations on likely successful movies for the new season, culminating in an internal hackathon presentation.
+
+**Skills:** Data analysis, machine learning, exploratory data analysis (EDA), data cleaning, data preprocessing, hypothesis formulation, statistical analysis, economic reasoning, data visualization, client communication, presenting findings
+
+**Technology:** R
+
+### Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models
+**Code:** [`Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models`](https://github.com/shuxuanhe123/data-analysis-portfolio/blob/main/clothesanalyst.ipynb)
+
+**Goal:** The primary goal of this project is to develop and validate predictive models to forecast annual customer spending at a clothing business using various customer-related characteristics. This will enable the business to make informed decisions that improve marketing strategies, inventory management, and overall customer satisfaction and loyalty.
+
+**Description** Analyze customer-related data, including demographic and behavioral characteristics, perform exploratory data analysis (EDA), and apply regression models. The objective is to develop accurate predictive models that help the business understand and forecast customer spending patterns, improving customer satisfaction and loyalty. The project involves building and comparing linear and polynomial regression models, evaluating their performance, and presenting findings in a detailed report.
+
+**Skills:** Data analysis, machine learning, exploratory data analysis (EDA), data cleaning, data preprocessing, hypothesis formulation, statistical analysis, economic reasoning, data visualization, client communication, presenting findings
+
+**Technology:** Python, Scikit-learn, Pandas, Plotnine, Statsmodels
 
 ### **Predicting Song Popularity and Genre**
 Goal: To predict a song’s popularity, genre, and its likelihood of becoming a hit (with over 1 million streams) based on various song-related features.
