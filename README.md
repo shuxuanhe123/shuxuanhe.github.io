@@ -11,6 +11,7 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 
 - [About Me](#about-me)
 - [Projects](#projects)
+   - [Financial Profiles: A Study of Mortgage Solvency](#financial-profiles-a-study-of-mortgage-solvency)
    - [Analyzing Twitter Sentiment for Airlines](#analyzing-twitter-sentiment-for-airlines)
    - [Strategizing for Spotify: Enhancing Playlist Placement Opportunities](#strategizing-for-spotify-enhancing-playlist-placement-opportunities)
    - [How Analytics Define the New Age of Blockbusters](#how-analytics-define-the-new-age-of-blockbusters)
