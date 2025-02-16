@@ -1,6 +1,6 @@
 # **ABOUT ME**
 
-Hi, I'm Shuxuan! I am a Bachelor of Science graduate in Business Administration with a minor in Data Analytics from Chapman University. What excites me most about data analysis is the process of uncovering patterns and translating raw information into meaningful insights that can drive impactful decisions. 
+Hi, I'm Shuxuan! I am a B.S. graduate in Business Administration with a minor in Data Analytics from Chapman University. What excites me most about data analysis is the process of uncovering patterns and translating raw information into meaningful insights that can drive impactful decisions. 
 
 During my academic journey and internships, I’ve explored the power of data in different fields—whether I was coordinating talent acquisition efforts at Futronics Corporation, where I managed applicant data for over 500 candidates, or conducting market research at Cybertegic Inc., where my analyses contributed to a 15% improvement in cost efficiency and a 20% revenue increase. These experiences reinforced my belief that data can do more than inform decisions—it can reshape strategies and create meaningful connections with stakeholders.
 
