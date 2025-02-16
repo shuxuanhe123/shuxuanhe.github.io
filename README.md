@@ -11,6 +11,12 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 
 - [About Me](#about-me)
 - [Projects](#projects)
+   - [Analyzing Twitter Sentiment for Airlines](#analyzing-twitter-sentiment-for-airlines)
+   - [Strategizing for Spotify: Enhancing Playlist Placement Opportunities](#strategizing-for-spotify-enhancing-playlist-placement-opportunities)
+   - [How Analytics Define the New Age of Blockbusters](#how-analytics-define-the-new-age-of-blockbusters)
+   - [Predicting Customer Spending in the Apparel Industry: Insights from Linear and Polynomial Regression Models](#predicting-customer-spending-in-the-apparel-industry-insights-from-linear-and-polynomial-regression-models)
+   - [Predicting Song Popularity and Genre](#predicting-song-popularity-and-genre)
+   - [Diet Analysis: Predicting Weight Change](#diet-analysis-predicting-weight-change)
 - [Education](#education)
 - [Let’s Connect!](#lets-connect)
 
