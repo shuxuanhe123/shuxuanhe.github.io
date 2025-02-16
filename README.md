@@ -22,6 +22,19 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 
 # **Projects**
 
+### Financial Profiles: A Study of Mortgage Solvency
+**Code:** [`Financial Profiles: A Study of Mortgage Solvency`](https://github.com/shuxuanhe123/data-analysis-portfolio/blob/main/Mortage.R)
+
+**Goal:** The main objectives are to predict mortgage defaults using a decision tree algorithm and to estimate client income using lasso and ridge regression models. This will aid in understanding the key factors contributing to defaults and the variance in client incomes.
+
+**Description:** Utilize a dataset of 34,000 active mortgages to identify the reasons behind loan defaults and predict total income for clients. The analysis will involve training classification and regression models, assessing their performance, and interpreting the results to provide actionable insights.
+
+**Skills:** Data preprocessing, model training, validation, decision trees, lasso regression, ridge regression, data structure visualization, performance metric analysis (confusion matrices, RMSE).
+
+**Technology:** R
+
+**Results:** The project successfully identified key predictors of mortgage defaults and client income, achieving a decision tree accuracy of 63.94% and demonstrating the utility of lasso and ridge regression models in income prediction with RMSE values around 76,360.
+
 ### Analyzing Twitter Sentiment for Airlines 
 
 **Goal:** To improve the operational effectiveness and consumer happiness of airline firms by examining the sentiments expressed in tweets.
