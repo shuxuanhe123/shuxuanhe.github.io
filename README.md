@@ -15,7 +15,37 @@ Looking forward, I’m excited to focus my career on data analytics, using my sk
 - [Let’s Connect!](#lets-connect)
 
 # **Projects**
-Predicting Song Popularity and Genre
+
+### Analyzing Twitter Sentiment for Airlines 
+
+**Goal:** To improve the operational effectiveness and consumer happiness of airline firms by examining the sentiments expressed in tweets.
+
+**Description:** The project focused on analyzing a dataset of tweets mentioning various airlines. The dataset included tweet IDs, airline sentiments, confidence levels, reasons for negative sentiments, retweet counts, tweet creation dates, and user timelines. The project involved loading the data into Tableau, cleaning and preprocessing it, performing exploratory data analysis (EDA) through interactive visualizations, analyzing sentiment patterns, and implementing predictive analysis for airline sentiments.
+
+**Skills:** Data cleaning, data analysis, sentiment analysis, data visualization, interactive dashboards.
+
+**Technology:** Tableau
+
+**Results:**  The analysis revealed that United Airlines is the most discussed airline, while Southwest Airlines has the highest occurrence of positive sentiments. The insights highlighted the main causes of negative sentiments, such as late flights and customer service issues. The findings were visualized through various interactive dashboards, allowing for a deeper understanding of sentiment distribution across different airlines and time zones. The project provided actionable insights to improve customer service and operational strategies for airlines.
+
+**Slide deck:** [`Analyzing Twitter Sentiment for Airlines `]
+
+### Strategizing for Spotify: Enhancing Playlist Placement Opportunities 
+**Code:** [`Strategizing for Spotify: Enhancing Playlist Placement Opportunities.R`](https://github.com/cnguyen180/CaitlinN-data-analysis-portfolio/blob/main/NewMusicFriday.R)
+
+**Goal:** To provide evidence-based strategies to increase the likelihood of artists' songs being featured on Spotify's "New Music Friday" playlist.
+
+**Description:** Examines the factors influencing song placements on Spotify's "New Music Friday" playlist, offering strategic insights and recommendations for artists and music labels to enhance their visibility and streaming performance on Spotify.
+
+**Skills:** data analysis, statistical reasoning, strategic thinking, presentation proficiency, visual data representation, and project management
+
+**Technology:** R
+
+**Results:** Show that artists with higher solo streaming numbers and those experiencing a surge in daily streams are more likely to have their songs featured on Spotify's "New Music Friday." This suggests a focus on building a strong solo streaming presence and leveraging current streaming success are key strategies for playlist inclusion.
+
+**Slide deck:** [`New Music Friday`]
+
+### **Predicting Song Popularity and Genre**
 Goal: To predict a song’s popularity, genre, and its likelihood of becoming a hit (with over 1 million streams) based on various song-related features.
 
 Description: This project analyzed a dataset of songs, focusing on features such as lyrics, danceability, loudness, and acousticness. The analysis included applying beta regression, Gaussian Mixture Model (GMM) clustering, linear regression with ElasticNet, and Principal Component Analysis (PCA) to identify patterns in song performance. The objective was to help record labels assess the characteristics of music that performed well and guide their artist signing decisions.
